@@ -84,9 +84,6 @@ I treat AI as an accelerator, not a crutch, and I'd rather ship a small thing th
 
 <div align="center">
 
-![Qnot's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qnot&theme=tokyonight)
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qnot&theme=tokyonight)
-![GitHub streak](https://streak-stats.demolab.com?user=qnot&theme=tokyonight&hide_border=true)
 ![Contribution graph](https://ghchart.rshah.org/qnot)
 ![Profile views](https://komarev.com/ghpvc/?username=qnot&style=for-the-badge&color=6E4AFF)
 ![Followers](https://img.shields.io/github/followers/qnot?style=for-the-badge&logo=github&color=6E4AFF)
